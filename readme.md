@@ -2,5 +2,6 @@
 
 # Test Project
 
-Bla bla
 # dotnet-core-cicd-using-github-action-and-azure
+
+## In this project, we have created a full CI/CD Pipelien using the following DevOps Tech Stack: For CI we are using GitHub Action and for CD we are making use of Azure Web Application to deploy our dot net application efficiiently and effectively...
