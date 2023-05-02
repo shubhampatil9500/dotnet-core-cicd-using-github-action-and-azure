@@ -1,4 +1,4 @@
-![Continuous Integration and Deployment](https://github.com/rstropek/htl-leo-live-ci-cd/workflows/Continuous%20Integration%20and%20Deployment/badge.svg)
+[![Continuous Integration and Deployment](https://github.com/sumanprasad007/dotnet-core-cicd-using-github-action-and-azure/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/sumanprasad007/dotnet-core-cicd-using-github-action-and-azure/actions/workflows/ci-cd.yaml)
 
 # Test Project
 
